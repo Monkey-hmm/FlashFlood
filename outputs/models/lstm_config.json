@@ -1,0 +1,7 @@
+{
+  "input_size": 68,
+  "hidden_size": 128,
+  "num_layers": 2,
+  "seq_len": 24,
+  "device": "cuda"
+}
